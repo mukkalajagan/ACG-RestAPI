@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "8QpDf6B0EexY6Tr3kCYmff3mB9KHBYdUUumMHcV65Z8=",
+  "Source": "ACG-RestAPI",
+  "BasePath": "_content/ACG-RestAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

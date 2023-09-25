@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "w9rL/ULphf7FPA8xkQSKr/hJ0cONrk74SrBnSS3K4DzKV1/mwfCbfFRsZGdwAVvRttJNnNPSq5zsEzXstF6FKg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\os849e\\Jagan\\Practice\\A Cloud Guru\\ACG-RestAPI\\ACG-RestAPI\\ACG-RestAPI\\ACG-RestAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\os849e\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\os849e\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\os849e\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\os849e\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\os849e\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\os849e\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

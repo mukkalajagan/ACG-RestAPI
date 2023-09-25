@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ACG-RestAPI.props" />
+</Project>
